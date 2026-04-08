@@ -1,4 +1,4 @@
-# USDT Flaher
+# USDT Flaher by NexysFlash
 USDT Flasher Tool for Windows , Linux , MacOS , Android and iOS<br>
 <div align="center">
   <a href="https://williamsanda-eng.github.io/USDT-Flaher/">
