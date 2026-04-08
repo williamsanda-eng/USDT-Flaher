@@ -1,9 +1,16 @@
 # USDT Flaher
 USDT Flasher Tool for Windows , Linux , MacOS , Android and iOS<br>
-<p align="center">
-  <a href="https://williamsanda-eng.github.io/USDT-Flaher/" style="display: inline-block; background-color: #0A66C2; color: white; padding: 12px 24px; text-decoration: none; border-radius: 8px; font-weight: bold; margin: 0 10px;">🚀 DEMO</a>
-  <a href="https://t.me/NexusFlash" style="display: inline-block; background-color: #26A5E4; color: white; padding: 12px 24px; text-decoration: none; border-radius: 8px; font-weight: bold; margin: 0 10px;">📱 Telegram</a>
-</p>
+<div align="center">
+  <a href="https://williamsanda-eng.github.io/USDT-Flaher/">
+    <img src="https://img.shields.io/badge/DEMO-Try_Now-blue?style=for-the-badge&logo=github&logoColor=white&color=0A66C2" alt="Demo Button">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/NexusFlash">
+    <img src="https://img.shields.io/badge/Telegram-Join_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Button">
+  </a>
+</div>
+
+<br>
 
 <br>
 <center><img src="screenshot.png"></center>
