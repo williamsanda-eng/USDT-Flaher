@@ -100,15 +100,3 @@ Try the official demo — sends random amount to random TRON address each time.
 - ❌ X.com social page / official site
 
 ---
-
-## 📊 Stats
-
-<div align="center">
-  
-**80** ★ GitHub Stars &nbsp;&nbsp;|&nbsp;&nbsp; **20+** Forks &nbsp;&nbsp;|&nbsp;&nbsp; **6** Platforms
-
-</div>
-
----
-
-## 📱 Screenshot
