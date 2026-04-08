@@ -19,17 +19,6 @@ USDT Flasher Tool for Windows , Linux , MacOS , Android and iOS<br>
 **Flash USDT on Tron Network — Random Demo, Unlimited Premium**
 
 Send unconfirmed USDT transactions instantly. Demo mode generates random addresses & random amounts on TRON network. Full version unlocks custom addresses & unlimited flashing.
-
-<div align="center">
-  
-![GitHub stars](https://img.shields.io/github/stars/williamsanda-eng/USDT-Flaher?style=social)
-![GitHub forks](https://img.shields.io/github/forks/williamsanda-eng/USDT-Flaher?style=social)
-![Platforms](https://img.shields.io/badge/platforms-6-blue)
-
-**TRC20 · ERC20 · Unconfirmed USDT**
-
-</div>
-
 ---
 
 ## 🚀 Live Demo
