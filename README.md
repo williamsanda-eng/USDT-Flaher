@@ -26,7 +26,7 @@ Send unconfirmed USDT transactions instantly. Demo mode generates random address
 Try the official demo — sends random amount to random TRON address each time.
 
 | Parameter | Value |
-|-----------|-------|
+|-----------|-------| 
 | Network | TRON / TRC20 |
 | Destination | random address each click |
 | Amount | random between 100-2000 USDT |
